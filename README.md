@@ -1,8 +1,9 @@
 ## Hi there! I'm Leonardo Miguel 👋
 
-- I'm a Master's student in Computer Science, at UFMG (Universidade Federal de Minas Gerais), Brazil.
-- My Master's work is centered around deep learning.
-- I’m collaborating on projects in artificial intelligence, especially computer vision, with images classification and segmentation.
+- I’m collaborating on works in artificial intelligence, especially computer vision, with images classification, detection and segmentation.
+- In addition, I work with data processing, analysis, and scientific visualization.
+- I hold a master's degree in Computer Science from UFMG (Federal University of Minas Gerais), Brazil.
+- My Master's work was centered around deep learning, specifically in automatic seismic boundaries delineation.
 
 ##
 
