@@ -6,7 +6,7 @@
 - My Master's work was centered around deep learning, specifically in automatic seismic boundaries delineation.
 
 ##
-
+<!--
 <a href="https://github-readme-stats.vercel.app/api?username=Leonardo-Miguel&show_icons=true&theme=dark">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Miguel&show_icons=True&theme=dark" 
     media="(prefers-color-scheme: dark)"
@@ -16,7 +16,7 @@
 <a href="https://github.com/Leonardo-Miguel/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leonardo-Miguel&show_icons=True&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
-
+-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="C++" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
